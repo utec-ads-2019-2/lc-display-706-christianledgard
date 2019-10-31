@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christianledgard/Documents/2019-2/Algoritmos y Estructuras de Datos/GitHub/lc-display-706-christianledgard/main.cpp
+iostream
+-
+vector
+-
+
